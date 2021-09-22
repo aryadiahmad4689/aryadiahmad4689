@@ -8,7 +8,7 @@
     <br><br>
    Learning Every Day
     <br><br>
-    I love Coding, Yo Love Coding too?
+    I love Coding, You Love Coding too?
   </samp>
 </p>
 
